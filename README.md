@@ -1,5 +1,5 @@
 # TransferUIE
-This is the github repository for the paper **A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder** (COLING2024)
+This is the github repository for the paper **A Regularization-based Transfer Learning Method for Information Extraction via Instructed Graph Decoder** (COLING2024).
 This repository is merged from the master branch.
 
 [[Paper Homepage]](https://aclanthology.org/2024.lrec-main.131/) [[Camera-Ready Paper]](https://aclanthology.org/2024.lrec-main.131.pdf) [[Arxiv]](https://arxiv.org/pdf/2403.00891) 
